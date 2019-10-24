@@ -1,0 +1,70 @@
+
+
+#title {
+	border-bottom: 2px solid grey;
+	font-weight: bold;
+	margin-left: 1em
+}
+
+
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+	max-width: 1200px;
+
+
+}
+
+
+img {
+	max-width:20em;
+}
+#otheruses {
+	color: #5b9aa0
+
+}
+
+#tablecontents {
+	background-color: #d6d4e0;
+	width:15em;
+	border-color: #622569;
+	border-style: solid;
+	border-width: 4px;
+	border-radius:10px;
+}
+.headers {
+	color: #5b9aa0
+}
+
+.subheaders {
+	color:#b8a9c9;
+}
+
+.subsubheaders {
+	color:#d6d4e0;
+}
+
+
+
+#section5 {
+	color: #622569;
+}
+
+#refhead{
+	border-style: dotted;
+	border-width: 1em
+	border-color:hotpink;
+
+}
+
+#references{
+	column-count: 2;
+}
+
+a:hover{
+color:hotpink;
+}
+
+
+
+
